@@ -1,6 +1,5 @@
-# Welcome to GitHub Desktop!
+# Bem-vindo à área de trabalho do GitHub!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Esse é seu README. READMEs são o lugar onde você pode se comunicar sobre o que seu projeto é e como utilizá-lo.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-marcos
+Escreva seu nome na linha 6, salve, e volte para área de trabalho do GitHub.
