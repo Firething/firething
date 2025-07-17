@@ -30,7 +30,7 @@
   <li><a href="https://github.com/MeowServer/LogWritterMeow/blob/main/README_Br.md">LogWritterMeow</a></li>
   <li><a href="https://github.com/MeowServer/HintServiceMeow/tree/main/ReadMe/Brazilian">HintServiceMeow</a></li>
   <li><a href="https://github.com/terminator-97/SCPUtils/blob/ScpUtils-MongoDb/Localizations/Brazilian.yml">ScpUtils</a></li>
-  <li><a href="https://github.com/Firething/SCPSL-HyperTranslated">SL HTranslated</a></li>
+  <li><a href="https://github.com/Firething/HyperSL/tree/main">HyperSL</a></li>
 
 </ul>
 
@@ -42,7 +42,7 @@
   <tr><td>SCPList-KR</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>SCPDiscord</td><td><img src="https://progress-bar.xyz/97/?title=progress" alt="97%"/></td></tr>
   <tr><td>AutoEvent</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>SCP:SL Custom Translation</td><td><img src="https://progress-bar.xyz/95/?title=progress" alt="95%"/></td></tr>
+  <tr><td>HyperSL</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>CustomUIMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>TextChatMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>LogWritterMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
