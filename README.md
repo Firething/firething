@@ -42,12 +42,12 @@
   <tr><td>SCPList-KR</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>SCPDiscord</td><td><img src="https://progress-bar.xyz/97/?title=progress" alt="97%"/></td></tr>
   <tr><td>AutoEvent</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>HyperSL</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
+  <tr><td>SCP:SL Custom Translation</td><td><img src="https://progress-bar.xyz/95/" alt="95%"/></td></tr>
   <tr><td>CustomUIMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>TextChatMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>LogWritterMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>HintServiceMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>SCPUtils</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>SL HTranslated</td><td><img src="https://progress-bar.xyz/5/" alt="5%"/></td></tr>
+  <tr><td>HyperSL</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
 
 <Set your life on fire. Seek those who fan your flames>
