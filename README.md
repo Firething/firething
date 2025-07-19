@@ -40,7 +40,7 @@
 <table>
   <tr><td>EXILED</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>SCPList-KR</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>SCPDiscord</td><td><img src="https://progress-bar.xyz/97/?title=progress" alt="97%"/></td></tr>
+  <tr><td>SCPDiscord</td><td><img src="https://progress-bar.xyz/1/?title=progress" alt="1%"/></td></tr>
   <tr><td>AutoEvent</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>SCP:SL Custom Translation</td><td><img src="https://progress-bar.xyz/95/" alt="95%"/></td></tr>
   <tr><td>CustomUIMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
