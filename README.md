@@ -4,8 +4,9 @@
 @@Wandering around...@@
 
 + Living in Rio de Janeiro, Brazil 🇧🇷 !
-- 20 years old (wish I wasn't -_-) 
+- 20 years old (wish I wasn't -_-)
 ! Translator in my free-time, always looking for something to play too!
+# Electronic Music Stan 📟!
 # Coffee my beloved~ ☕
 ```
 
