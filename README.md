@@ -34,8 +34,12 @@
 
 </ul>
 
-<!-- Barra de progresso de traduções -->
-<h4>📊 Progresso das Traduções</h4>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <details>
+        <summary>⏳ Progresso das Traduções</summary>
+          <ul>
 
 <table>
   <tr><td>EXILED</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
