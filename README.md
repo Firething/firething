@@ -53,6 +53,6 @@
   <tr><td>LogWritterMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>HintServiceMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
   <tr><td>SCPUtils</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>HyperSL</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
+  <tr><td>HyperSL</td><td><img src="https://progress-bar.xyz/86/?title=progress" alt="86%"/></td></tr>
 
 <Set your life on fire. Seek those who fan your flames>
