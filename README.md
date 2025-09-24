@@ -4,7 +4,7 @@
 @@Wandering around...@@
 
 + Living in Rio de Janeiro, Brazil 🇧🇷 !
-- 20 years old (wish I wasn't -_-)
+- 20 years old~
 ! Translator in my free-time, always looking for something to play too!
 # Electronic Music Stan 📟!
 # Coffee my beloved~ ☕
@@ -32,27 +32,6 @@
   <li><a href="https://github.com/MeowServer/HintServiceMeow/tree/main/ReadMe/Brazilian">HintServiceMeow</a></li>
   <li><a href="https://github.com/terminator-97/SCPUtils/blob/ScpUtils-MongoDb/Localizations/Brazilian.yml">ScpUtils</a></li>
   <li><a href="https://github.com/Firething/HyperSL/tree/main">HyperSL</a></li>
-
-</ul>
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <details>
-        <summary>⏳ Progresso das Traduções</summary>
-          <ul>
-
-<table>
-  <tr><td>EXILED</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>SCPList-KR</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>SCPDiscord</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>AutoEvent</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>SCP:SL Custom Translation</td><td><img src="https://progress-bar.xyz/95/" alt="95%"/></td></tr>
-  <tr><td>CustomUIMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>TextChatMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>LogWritterMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>HintServiceMeow</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>SCPUtils</td><td><img src="https://progress-bar.xyz/100/" alt="100%"/></td></tr>
-  <tr><td>HyperSL</td><td><img src="https://progress-bar.xyz/86/?title=progress" alt="86%"/></td></tr>
+  <li><a href="https://github.com/BTF-SCPSL/CustomHint/blob/master/READMEs/BR.md">CustomHint</a></li>
 
 <Set your life on fire. Seek those who fan your flames>
